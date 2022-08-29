@@ -1,0 +1,15 @@
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/bin/Debug/net7.0/DZ_1
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/bin/Debug/net7.0/DZ_1.deps.json
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/bin/Debug/net7.0/DZ_1.runtimeconfig.json
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/bin/Debug/net7.0/DZ_1.dll
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/bin/Debug/net7.0/DZ_1.pdb
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/obj/Debug/net7.0/DZ_1.csproj.AssemblyReference.cache
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/obj/Debug/net7.0/DZ_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/obj/Debug/net7.0/DZ_1.AssemblyInfoInputs.cache
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/obj/Debug/net7.0/DZ_1.AssemblyInfo.cs
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/obj/Debug/net7.0/DZ_1.csproj.CoreCompileInputs.cache
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/obj/Debug/net7.0/DZ_1.dll
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/obj/Debug/net7.0/refint/DZ_1.dll
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/obj/Debug/net7.0/DZ_1.pdb
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/obj/Debug/net7.0/DZ_1.genruntimeconfig.cache
+/Users/deniskarapuzev/Desktop/DZZ/DZ_1/obj/Debug/net7.0/ref/DZ_1.dll
